@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 450px;
+  margin: auto;
+}
+
+#survey {
+  max-width: 400px;
+  margin: auto;
+}
+
+.answer {
+  background-color: blueviolet;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+#q2,
+#q3,
+#q4,
+#q5,
+#end {
+  display: none;
+}
